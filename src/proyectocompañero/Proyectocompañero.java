@@ -19,6 +19,8 @@ public class Proyectocompañero {
         System.out.println("Hola compañero/");
         //segundo intento de cambio por parte de Joselyn
         System.out.println("De nuevo Hola compañero");
+        //Tercer cambio por parte de Joselyn
+        System.out.println("Quiero ver que cambios son mios y cuales son tuyoos");
         
     }
     
