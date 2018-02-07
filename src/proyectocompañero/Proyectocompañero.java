@@ -17,6 +17,8 @@ public class Proyectocompañero {
     public static void main(String[] args) {
         System.out.println("Hola compañero");  
         System.out.println("Hola compañero/");
+        //segundo intento de cambio por parte de Joselyn
+        System.out.println("De nuevo Hola compañero");
         
     }
     
